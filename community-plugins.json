@@ -15806,10 +15806,10 @@
         "repo": "marcueberall/obsidian-harn-weather"
     },
     {
-        "id": "smooth-cursor",
-        "name": "Smooth Cursor",
+        "id": "one-step-wiki-link",
+        "name": "One Step Wiki Link",
         "author": "Busyo",
-        "description": "平滑光标 Smooth Cursor",
-        "repo": "busyoGG/SmoothCursor"
+        "description": "一步添加 wiki 链接",
+        "repo": "busyoGG/OneStepWikiLink"
     }
 ]
